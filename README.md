@@ -1,0 +1,3 @@
+# evalboard
+
+Chess analysis app.
